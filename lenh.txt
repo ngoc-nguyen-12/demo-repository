@@ -1,0 +1,11 @@
+cd folder
+git init
+git add . : add all file
+git commit -m "init pj"
+git commit --amend --reset-author
+git log
+//tao 1 repository tren gihub
+git remote add origin https://github.com/ngoc-nguyen-12/demo-repository.git
+ git remote -m
+ git remote -v
+git push origin master: day code len remote
